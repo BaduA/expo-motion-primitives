@@ -1,6 +1,8 @@
-# React Native / Expo Components
+# expo-motion-primitives
 
-A collection of reusable React Native & Expo components that are commonly needed but hard to find with clean, minimal implementations elsewhere.
+Animated UI primitives for React Native & Expo — smooth, minimal, copy-paste ready.
+
+Components that are commonly needed but hard to find with clean, minimal animated implementations elsewhere.
 
 Each component lives in its own folder with a dedicated README covering usage, props, and dependencies.
 
