@@ -8,11 +8,10 @@ Each component lives in its own folder with a dedicated README covering usage, p
 
 ## Components
 
-### Pressable
-
 | Component | Description |
 | --------- | ----------- |
-| [ScalePressable](./components/pressable/) | Pressable with scale animation on press + loading state overlay |
+| [ScalePressable](./ScalePressable/) | Pressable with scale animation on press + loading state overlay |
+| [BottomSheet](./BottomSheet/) | Gesture-driven bottom sheet with animated blur backdrop |
 
 ## Philosophy
 
